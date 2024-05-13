@@ -1,5 +1,4 @@
-JS readme file.txt
-﻿This project implements a simple NFT (Non-Fungible Token) minting system in JavaScript. It allows you to create, store, and display NFTs along with their metadata.
+This project implements a simple NFT (Non-Fungible Token) minting system in JavaScript. It allows you to create, store, and display NFTs along with their metadata.
 
    - A JavaScript array named `NFTs` is used to hold the NFTs.
    - The `mintNFT` function creates an object with metadata for each NFT and stores it in the `NFTs` array.
